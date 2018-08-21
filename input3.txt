@@ -1,0 +1,15 @@
+Hotel Facebook 105 2
+Hotel Facebook 106 2
+Hotel Facebook 111 1
+Hotel Friendsters 612 3
+Hotel Friendsters 543 1
+Hotel Friendsters 282 2
+Booking Ether Dec 5 4 triple 1 double 1
+Booking Tommy Dec 5 3 double 2
+Booking Feng Dec 5 1 double 1
+Print Facebook
+Print Friendsters
+Cancel Ether
+Cancel Tommy
+Print Facebook
+Print Friendsters

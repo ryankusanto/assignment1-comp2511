@@ -1,0 +1,17 @@
+Booking Ether Friendsters 612 282
+Booking Tommy Facebook 105 106
+Booking rejected
+Facebook 105 Dec 5 3
+Facebook 106 Dec 5 3
+Facebook 111
+Friendsters 612 Dec 5 4
+Friendsters 543
+Friendsters 282 Dec 5 4
+Cancel Ether
+Cancel Tommy
+Facebook 105
+Facebook 106
+Facebook 111
+Friendsters 612
+Friendsters 543
+Friendsters 282

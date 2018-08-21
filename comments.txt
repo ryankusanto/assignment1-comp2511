@@ -1,0 +1,19 @@
+input1.txt:
+
+as usual from assignment page
+
+input2.txt:
+Starting with impossible bookings
+Book some people in (Mary and Try)
+Booking rejected for someone
+Print to know whats going on
+Change Mary
+Print hotel 
+Cancel Mary to see if it affects other bookings
+print to get last situation
+
+input3.txt:
+Trying to make sure that bookings stay in a hotel
+(i.e bookings doesn't comes from 2 different hotel)
+Reject Tommy
+Making sure that Cancel doesn't cause error and can clear bookings 

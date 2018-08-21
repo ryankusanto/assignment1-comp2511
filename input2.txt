@@ -1,0 +1,13 @@
+Hotel black 106 3
+Hotel black 103 1
+Hotel black 104 1
+Hotel indomie 201 2
+Booking John Mar 25 3 double 2
+Booking Mary Mar 20 2 single 1
+Booking someone Mar 23 3 single 1 double 1
+Booking Try Mar 22 1 single 1 triple 1
+Print black
+Change Mary Mar 24 1 single 2
+Print black
+Cancel Mary
+Print black
